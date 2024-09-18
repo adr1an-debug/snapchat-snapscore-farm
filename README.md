@@ -17,6 +17,7 @@
 - Install AutoHotkey on your computer.
 
 2. Prepare the Script
+Copy the following code into a new text file and save it with the `.ahk` extension `(e.g., snapchat_script.ahk).`
 ```
 #Persistent
 
